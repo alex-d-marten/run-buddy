@@ -230,7 +230,9 @@ section {
     font-size: 17px;
     line-height: 1.3;
 }
+/* Trainers styling end*/
 
+/* Reach out styling begin */
 .contact {
     background: #024e76;
     text-align: center;
@@ -269,3 +271,4 @@ section {
 .contact-info a {
     color: #fce138;
 }
+/* Reach out styling end */
