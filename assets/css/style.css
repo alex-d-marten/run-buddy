@@ -176,7 +176,7 @@ section {
 
 .step {
     margin: 50px auto;
-    padding-bottom: 50%;
+    padding-bottom: 50px;
     width: 80%;
     border-bottom: 1px solid #39a6b2;
     display: flex;
